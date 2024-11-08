@@ -1,2 +1,7 @@
-# adhan-app
-A simple app using HTML, CSS and Javascript in which you can see prayer times and listen to adhan.
+# Adhan App
+A simple app using:
+- HTML 
+- CSS
+- Javascript
+
+With this app, you can display the prayer times for your current location and listen to adhan.
